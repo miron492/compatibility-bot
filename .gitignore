@@ -1,0 +1,22 @@
+# Конфиденциальные данные
+.env
+*.env
+config.py
+secrets.py
+keys.py
+
+# Токены и пароли
+*_token.txt
+*_secret.txt
+
+# Базы данных
+*.db
+*.sqlite
+*.sqlite3
+
+# Логи
+*.log
+logs/
+
+# Системные файлы
+.DS_Store
