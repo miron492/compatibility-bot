@@ -1,1 +1,1 @@
-worker: python bot_cloud.py
+worker: python test_env.py
