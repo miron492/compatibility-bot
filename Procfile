@@ -1,1 +1,1 @@
-worker: python bot_working.py
+worker: python bot_cloud.py
